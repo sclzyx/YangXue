@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 <p>喜欢战战</p>
+=======
+<p>战战</p>
+    <p>网页上修改</P>
+>>>>>>> branch 'master' of https://github.com/sclzyx/YangXue.git
 </body>
 </html>
